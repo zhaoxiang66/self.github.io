@@ -1,0 +1,9 @@
+{
+    "code":0,
+    "success":true,
+    "msg":"成功",
+    "data":{
+        "loaction":"机房1",
+        "device":"烟感01"
+    }
+}
